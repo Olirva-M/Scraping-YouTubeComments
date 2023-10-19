@@ -9,8 +9,8 @@ In summary, scraping YouTube comments is a valuable source of data that can be h
 ## Installing libraries
 Install the below libraries using python packet manager 'pip': 
 ```
-!pip install google-api-python-client
-!pip install pandas
+pip install google-api-python-client
+pip install pandas
 ```
 ## Generating YouTube API key
 **To get your YT API key :**
